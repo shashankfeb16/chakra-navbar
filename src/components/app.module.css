@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    border: 1px solid black;
+
+}
+.logo{
+    margin-top: 29px;
+    font-weight: bold;
+}
+.side{
+   margin-left: 800px;
+  
+
+}
